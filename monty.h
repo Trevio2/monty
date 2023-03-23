@@ -17,7 +17,7 @@ extern char **op_toks;
  * @n: integer
  * @prev: points to the previous element of the stack (or queue)
  * @next: points to the next element of the stack (or queue)
- *
+ * other points  on stack
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
  */
